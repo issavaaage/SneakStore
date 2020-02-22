@@ -1,0 +1,205 @@
+/*Logo+topbar*/
+
+.logo {
+    font-family: 'Anton', sans-serif;
+    font-size: 80px;
+    margin: 0;
+}
+
+.text_logo {
+    text-align: center;
+    margin: 0;
+}
+
+.navbar {
+    background-color: black;
+    overflow: hidden;
+    height: 60px;
+    
+    
+}
+
+.topbar {
+   margin-top: 20px;
+   /*background-color: red;*/
+   width: 500px;
+   margin-left: 33.5%;
+   /*margin-right: 50%;*/
+   text-align: center;
+}
+
+
+.topbar a {
+   
+    color: #f2f2f2;
+    padding: 14px 25px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
+}
+
+/*Main page content*/
+
+.slogan {
+    text-align: center;
+    color: #d2cdcd;
+}
+
+#slog {
+   font-family: 'Baskervville', serif;
+   font-weight: 400;
+   
+}
+
+.content {
+    font-family: 'Inconsolata', monospace;
+    
+}
+
+.main {
+    margin-top: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+p {
+    text-indent: 20px;
+    font-size: 20px;
+}
+
+.basketball {
+    margin-top: 70px;
+}
+
+#jordan {
+    float: left;
+    margin-right: 25px;
+    height: 400px;
+    width: auto;
+    
+}
+
+.handball {
+    margin-top: 30px;
+}
+
+#spezial {
+    float: right;
+    margin-left: 25px;
+    height: 400px;
+    width: auto;
+}
+
+.sprint {
+    margin-top: 80px;
+}
+
+#cortez {
+    float: left;
+    margin-right: 25px;
+    height: 400px;
+    width: auto;
+}
+
+/*Shop page content*/
+
+.content_shop {
+    font-family: 'Inconsolata', monospace;
+   
+}
+
+.side_bar {
+    position: absolute;
+    margin-top: 5px;
+    /*background-color: blue;*/
+    width: 300px;
+    height: 1000px;
+    border-right-width: 1px;
+    border-right-color: rgb(222, 230, 222);
+    border-right-style: solid;
+}
+
+#search_form {
+    margin-top: 15px;
+}
+
+#search {
+    width: 200px;
+}
+
+.sneakers {
+    margin-left: 305px;
+    display: flex;
+}
+
+.small_card img {
+    width: 305px;
+    height: auto;
+}
+
+.small_card {
+    text-align: center;
+    width: 300px;
+    padding: 0;
+    margin: 50px;
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.boots {
+    width: 295px;
+    text-align: center;
+    
+}
+
+.boots p {
+    font-size: 17px;
+    height: 90px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*table {
+    border-spacing: 50px;
+}*/
+
+
+.href a, .href a:visited{
+    color: black;
+    text-decoration: none;
+    vertical-align: middle;
+    
+}
+
+.href {
+    background-color: green;
+    width: 200px;
+    height: 25px;
+    margin-left: 50px;
+    border: solid;
+    border-width: 1px;
+}
+
+
+
+.filters {
+    margin-left: 20px;
+}
+
+.filters select {
+    margin-top: 0;
+    margin-left: 20px;
+    width: 200px;
+}
+
+.filters p{
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
